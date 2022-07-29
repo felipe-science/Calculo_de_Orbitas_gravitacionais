@@ -9,10 +9,10 @@ O projeto consiste em dezudir as equações de movimento para as três massas at
 onde o campo de força que atua em cada partícula consiste no sentido oposto do vetor gradiente do 
 potencial gravitacional.
 
-Em seguida as três equações de movimento das partículas é resolvida através do método de Runge-Kutta de 4ª
+Em seguida, as três equações de movimento das partículas são resolvidas através do método de Runge-Kutta de 4ª
 ordem, sendo assim, obtemos a posição da parícula para cada instante de tempo.
 
-Para a execução do algoritmo, é necessário a instação dos pacotes numpy, pylab, e vpython.
+Para a execução do algoritmo, é necessário a instalação dos pacotes numpy, pylab, e vpython.
 
 O pacote vpython é utilizado para realizar simulações físicas, nesse projeto, utilizou-se para demonstrar
 o movimento das três massas.
